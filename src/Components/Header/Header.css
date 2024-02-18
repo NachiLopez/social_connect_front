@@ -1,0 +1,57 @@
+.header{
+    background-color: #022F55;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*Header LEFT*/ 
+
+.header .left {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.header .left .userIconWhite{
+    padding-right: 20px;
+    height: 100px;
+}
+
+/*Header MID*/
+.header .mid .socialConnectLogo{
+    height: 110px;
+}
+
+/*Header RIGHT*/ 
+.header .right ul{
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
+.header .right li{
+    list-style-type: none;
+    padding: 0px 10px;
+}
+.header .right a{
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+}
+.header .right a:hover{
+    transition: 0.5s;
+    color: rgb(175, 175, 175);
+    text-decoration: none;
+    cursor: pointer;
+}
+.header .right img{
+    height: 40px;
+}

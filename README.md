@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# SocialConnect Front
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![SocialConnect Logo](https://ibb.co/hWgXgnP)
 
-## Available Scripts
+## Descripción
 
-In the project directory, you can run:
+SocialConnect Front es la interfaz de usuario de una aplicación de red social. Este proyecto se centra exclusivamente en el desarrollo frontend utilizando React.js. La aplicación simula funciones de autenticación, perfiles de usuario, feed de inicio, conexiones y amigos, publicaciones, y notificaciones. Diseñado con una interfaz atractiva y receptiva, proporciona una experiencia de usuario que refleja las interacciones de una aplicación real.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Características Principales
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Autenticación Simulada:** Sistema simulado de autenticación para acceder a las funciones de la aplicación.
+- **Perfiles de Usuario:** Muestra perfiles ficticios con fotos de perfil y enlaces simulados a redes sociales.
+- **Feed de Inicio:** Presenta un feed simulado que muestra actualizaciones de estado y publicaciones ficticias.
+- **Conexiones y Amigos Simulados:** Capacidad simulada para enviar solicitudes de amistad y mostrar conexiones simuladas.
+- **Publicaciones Simuladas:** Permite a usuarios ficticios crear y comentar publicaciones.
+- **Interfaz Atractiva:** Diseño moderno y receptivo utilizando React.js y estilos CSS.
+- **Notificaciones Simuladas:** Implementa notificaciones simuladas para eventos importantes.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contribuciones
 
-### `npm run build`
+¡Contribuciones son bienvenidas! Si tienes sugerencias o mejoras, por favor, crea un pull request.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Licencia
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Este proyecto está bajo la Licencia [MIT]().
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
