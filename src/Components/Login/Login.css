@@ -1,20 +1,114 @@
 .login {
     background-color: #D9D9D9;
-    /* background-image: url("https://i.ibb.co/6Pyvyp3/Social-Connect-Logo.png"); */
-    text-align: center;
-}
-
-.login .socialConnectLogo{
-    height: 150px;
-}
-
-.login form{
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 200px;
-    background-color: white;
+    height: 100vh;
+    width: 90%;
+    border-left: 2px solid rgb(172, 172, 172);
+    border-right: 2px solid rgb(172, 172, 172);
+    margin: 0px auto;
+    color: #022F55;
+    background-image: url("https://i.ibb.co/QXwQCcX/Transparent-Social-Connect-Logo.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
 }
-.login .buttons{
+
+.login .socialConnectLogo {
+    width: 200px;
+    margin-top: 30px;
+}
+
+.login h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 85px;
+}
+.login h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.login form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 40%;
+    background-color: white;
+    border: 2px solid #022F55;
+}
+
+.login input {
+    font-size: 18px;
+    width: 90%;
+    padding: 20px 10px;
+    border: 2px solid #022F55;
+}
+.login form .inputEmail{
+    display: flex;
+    width: 100%;
+    place-content: center;
+}
+.login form .inputEmail img{
+    width: 60px;
+    height: auto;
+    position: absolute;
+    top: 53.3%;
+    left: 34.5%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+.login form .inputPassword{
+    display: flex;
+    width: 100%;
+    place-content: center;
+}
+.login form .inputPassword img{
+    width: 60px;
+    height: auto;
+    position: absolute;
+    top: 64.2%;
+    left: 34.5%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
+
+
+.login .buttons {
     padding: 10px;
+    margin: 5px;
+    display: flex;
+    width: 90%;
+}
+.login .loginBtn{
+    font-size: 20px;
+    padding: 15px 10px;
+    margin: 5px;
+    border: 2px solid #022F55;
+    width: 100%;
+    cursor: pointer;
+}
+.login button {
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid #022F55;
+    width: 100%;
+    cursor: pointer;
+}
+.login .loginBtn{
+    font-size: 20px;
+    padding: 15px 10px;
+    margin: 5px;
+    border: 2px solid #022F55;
+    width: 100%;
+    cursor: pointer;
+}
+.login button {
+    font-size: 20px;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid #022F55;
+    width: 100%;
+    cursor: pointer;
 }

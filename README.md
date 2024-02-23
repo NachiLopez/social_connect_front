@@ -1,6 +1,6 @@
 # SocialConnect Front
 
-![SocialConnect Logo](https://ibb.co/hWgXgnP)
+![SocialConnect Logo](https://i.ibb.co/6Pyvyp3/Social-Connect-Logo.png)
 
 ## Descripción
 
