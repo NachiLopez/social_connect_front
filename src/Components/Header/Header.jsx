@@ -14,7 +14,7 @@ export const Header = () => {
       <div className="right">
         <ul>
           <li className="home">
-            <a href=''>
+            <a href='#'>
               <img src="https://i.ibb.co/YPWKwkB/HomeIcon.png" alt="HomeIcon" />
               Home</a>
           </li>
@@ -25,7 +25,7 @@ export const Header = () => {
             </a>
           </li>
           <li className="notifications">
-            <a href=''>
+            <a href='#'>
               <img src="https://i.ibb.co/T8sY9Fb/Notifications-Icon.png" alt="NotificationsIcon" />
               Notifications</a>
           </li>
