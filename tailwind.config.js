@@ -138,6 +138,7 @@ module.exports = {
       black: colors.black,
       white: colors.white,
       slate: colors.slate,
+      pageDefault: colors.pageDefault,
       gray: colors.gray,
       zinc: colors.zinc,
       neutral: colors.neutral,

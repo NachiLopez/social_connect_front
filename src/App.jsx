@@ -18,7 +18,7 @@ function App() {
              */}
 
       {/* <Login/> */}
-      <div className="body-container">
+      <div className="container">
         <Header/>
         <Feed/>
       </div>
